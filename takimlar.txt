@@ -1,0 +1,23 @@
+Fernando Muslera,Galatasaray
+Atiba Hutchinson,Beşiktaş
+Simon Kjaer,Fenerbahçe
+Ahmet Oytun Özdoğan,Fenerbahçe
+Harun Tekin,Fenerbahçe
+Erten Ersu,Fenerbahçe
+Osman Ertuğrul Çetin,Fenerbahçe
+Altay Bayındır,Fenerbahçe
+Simon Falette,Fenerbahçe
+Hasan Ali Kaldırım,Fenerbahçe
+Mauricio Aníbal Isla Isla,Fenerbahçe
+Serdar Aziz,Fenerbahçe
+Utku Yuvakuran,Beşiktaş
+Ersin Destanoglu,Beşiktaş
+Domagoj Vida,Beşiktaş
+Víctor Ruiz,Beşiktaş
+Enzo Roco,Beşiktaş
+Erdogan Kaya,Beşiktaş
+Okan Kocuk,Galatasaray
+Standard Liège,Galatasaray
+Christian Luyindama,Galatasaray
+Marcão,Galatasaray
+Ryan Donk,Galatasaray
